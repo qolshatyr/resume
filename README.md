@@ -58,5 +58,7 @@ This project is open-source.
 ## Contact
 For questions or collaboration, reach out via:
 - Email: [zhamashas@proton.me](mailto:zhamashas@proton.me>=)
-- GitHub: [qolshatyr](github.com/qolshatyr)
+- GitHub: [qolshatyr](https://github.com/qolshatyr) 
+
+
 
