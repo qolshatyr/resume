@@ -60,3 +60,4 @@ For questions or collaboration, reach out via:
 - Email: [zhamashas@proton.me](mailto:zhamashas@proton.me>=)
 - GitHub: [qolshatyr](https://github.com/qolshatyr)
 
+Project URL: https://roadmap.sh/projects/single-page-cv
