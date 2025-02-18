@@ -1,0 +1,51 @@
+.body-resume{
+    font-family: "Sono", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+            "MONO" 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{
+    border: 2px black solid;
+    padding: 40px;
+}
+
+.hr-resume{
+    height: 2px;
+    border: none;
+    background-color: black;
+    width: 80%;
+    margin-left: 0;
+}
+
+#name{
+    font-weight: normal;
+}
+
+.title{
+    font-size: 17px;
+    font-weight: normal;
+    color: forestgreen;
+}
+
+.block p{
+    margin: 1px 0;
+}
+
+.block{
+    margin: 25px 0;
+}
+
+.important{
+    font-size: 18px;
+    color: dodgerblue;
+}
+
+#ati p{
+    display: inline;
+    margin-right: 10px;
+}
